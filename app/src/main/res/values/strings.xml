@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayoutExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="chat">Chat</string>
+    <string name="status">Status</string>
+    <string name="call">Calls</string>
+</resources>
